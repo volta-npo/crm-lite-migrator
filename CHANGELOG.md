@@ -2,7 +2,7 @@
 
 ## 3.0.0
 
-- Promoted CRM Lite Migrator to v3 production certification.
+- Promoted CRM Lite Migrator to release certification.
 - Added release gates, integrity hashing, import/export round-trip support, operational docs, and rigorous v3 tests.
 
 ## 1.0.0
